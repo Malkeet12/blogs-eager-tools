@@ -1,11 +1,11 @@
 {
-  "name": "ghost",
+  "name": "eagertools",
   "version": "3.0.3",
   "description": "The professional publishing platform",
   "author": "Ghost Foundation",
   "homepage": "https://ghost.org",
   "keywords": [
-    "ghost",
+    "eagertools",
     "blog",
     "cms",
     "headless",
